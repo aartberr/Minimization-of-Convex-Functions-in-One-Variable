@@ -1,6 +1,6 @@
 # Optimization Techniques in MATLAB
 
-This project was created as part of a course assignment for the **Optimization techbniques** class at **ECE, AUTH University**.
+This project was created as part of a course assignment for the **Optimization techniques** class at **ECE, AUTH University**.
 
 This project implements and compares various optimization techniques to minimize convex functions using MATLAB. It explores the **Bisection Method**, **Golden Section Search**, **Fibonacci Method**, and a **Modified Bisection Method with Derivatives**.
 
